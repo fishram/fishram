@@ -16,8 +16,8 @@
 
 ## 🌟 Projects
 
-- **[Login Screen Example](https://github.com/fishram/loginscreen):** A simple and responsive login screen.
-- **[Pokemon Recipe Generator](https://github.com/fishram/PokemonRecipeGen):** Whether you're a Pokémon trainer or a chef, this tool is designed to inspire you.
+- **[Login Screen Example](https://github.com/fishram/loginscreen){:target="_blank"}:** A simple and responsive login screen.
+- **[Pokemon Recipe Generator](https://github.com/fishram/PokemonRecipeGen){:target="_blank"}:** Whether you're a Pokémon trainer or a chef, this tool is designed to inspire you.
 
 ## 🚀 Goals
 
@@ -28,8 +28,8 @@
 ## 📫 How to reach me
 
 - **Email:** [fishram@unc.edu](mailto:fishram@unc.edu)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/fisherramsey/)
-- **GitHub:** [My GitHub Profile](https://github.com/fishram)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/fisherramsey/){:target="_blank"}
+- **GitHub:** [My GitHub Profile](https://github.com/fishram){:target="_blank"}
 
 ## ✨ Fun Facts
 

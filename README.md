@@ -1,6 +1,6 @@
 # Hello, my name is Fisher 👋
 
-🎓 Junior at UNC Chapel Hill studying **Computer Science** and **Economics**
+🎓 I'm a junior at UNC Chapel Hill studying **Computer Science** and **Economics**
 
 🌱 Currently learning **Full Stack Web Development**
 
@@ -21,7 +21,7 @@
 
 ## 🚀 Goals
 
-- Master full stack development
+- Build my skills in full stack development
 - Create useful and impactful web applications
 - Learn React Native for mobile development
 
